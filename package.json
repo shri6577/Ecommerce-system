@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Product recommendation system using user-based collaborative filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shri6577/Ecommerce-system.git"
+  },
+  "author": "shrinkant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shri6577/Ecommerce-system/issues"
+  },
+  "homepage": "https://github.com/shri6577/Ecommerce-system#readme"
+}
